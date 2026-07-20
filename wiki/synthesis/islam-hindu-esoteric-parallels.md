@@ -3,7 +3,7 @@ type: synthesis
 aliases: ["Islam–Hindu Esoteric Parallels", "Sufism and Advaita comparison"]
 traditions: [sufism, advaita-vedanta, ismaili, hermetic, neoplatonic]
 tags: [comparison, syncretism, non-duality, perennialism]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Islam ↔ Hindu esoteric parallels
@@ -49,5 +49,13 @@ The source folds in **[[hermeticism]]** ("The All is Mind"), **[[emanation|Neopl
 needs a `scholarly` source before being asserted as fact. A strong candidate for a future chart or
 timeline once corroborating sources are ingested.
 
+## Broadened by S0002
+
+[[S0002]] extends this two-column table into a **many-tradition** picture (adding Judaism/[[kabbalah]],
+[[christian-mysticism|Christianity]], [[buddhism]], [[taoism]]) **and** — crucially — records where the
+columns *don't* line up. That fuller treatment, with the four shared claims and the honest dissents,
+now lives on **[[convergence-and-its-critics]]**; this page remains the focused Islam↔Hindu view.
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

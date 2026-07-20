@@ -5,7 +5,7 @@ aliases: ["Al-Hallaj", "Mansur al-Hallaj", "Husayn ibn Mansur al-Hallaj", "Ana a
 tradition: [sufism, islamic-mysticism]
 era: "c. 858 – 922 CE"
 tags: [sufi, martyr, ecstatic, ana-al-haqq, baghdad]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Mansur al-Hallaj
@@ -49,5 +49,16 @@ because he identified with [[the-observer]] (the screen), not the body (the movi
   "10th century." The prophecy-of-robes and dancing-execution details come from devotional
   retellings — treat as `tradition`, not established biography, until corroborated.
 
+## Corroboration & context (S0002)
+
+[[S0002]] corroborates the ego-death reading of *Ana al-Haqq* ("a wave shouting 'I am the ocean!'")
+and places al-Hallaj in a **lineage of mystics punished for speaking the inner truth**:
+- **Suhrawardi** (the Illuminationist) executed **1191**; **[[meister-eckhart]]** condemned by papal
+  bull **1329** — "the Christian echo of Hallaj's fate."
+- This is *why* Sufi poets **encrypted** everything — "wine" = divine love, "the Beloved" = God;
+  **Shabistari** titled his masterwork *The Rose Garden of Secret*. See [[esoteric-decoding]] ("why
+  it was written in code").
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

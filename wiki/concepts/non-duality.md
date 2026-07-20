@@ -3,7 +3,7 @@ type: concept
 aliases: ["Non-Duality", "Non-dualism", "Absolute Oneness", "Advaya"]
 traditions: [advaita-vedanta, sufism, hermetic, neoplatonic]
 tags: [oneness, self, greatest-secret, monism]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Non-Duality
@@ -51,5 +51,20 @@ The *identification* of these as one doctrine is [[S0001]]'s interpretive synthe
 - Within Sufism, *Wahdat al-Wujud* was itself contested (vs. *Wahdat al-Shuhud*, "unity of
   witnessing"). Not noted by the source. See [[wahdat-al-wujud]].
 
+## Corroboration & dissent (S0002)
+
+[[S0002]] **corroborates** non-duality as the shared esoteric core and reframes it as **four shared
+claims** (reality is not-two; you are the aware ground, not the ego; it is unsayable → [[via-negativa]];
+the path is [[remembrance]]). But it adds the honesty S0001 lacked:
+- **Buddhism dissents** on claim 2: *anatta* (no-self) rejects a Self/God to identify with (see
+  [[two-truths]], [[buddhism]]).
+- The traditions **disagree at the summit** — strict identity (Advaita) vs. union-with-distinction
+  (most Sufis/Christian mystics) vs. no-self (Buddhism).
+- **Scholars are split** on what the convergence *means* — perennialists vs. contextualists.
+
+All of this is gathered on **[[convergence-and-its-critics]]**. Note: S0001 and S0002 are **both
+`llm-generated`**, so their agreement is not independent scholarly corroboration.
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

@@ -3,7 +3,7 @@ type: concept
 aliases: ["Ta'wil", "Tawil", "Esoteric interpretation", "Gupta Vidya", "Batin"]
 traditions: [sufism, ismaili, shia, advaita-vedanta]
 tags: [hermeneutics, esoteric, inner-meaning, decoding]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Ta'wil — esoteric interpretation
@@ -44,5 +44,17 @@ comparison — filed in [[islam-hindu-esoteric-parallels]].
   Islam↔Hindu equivalences are an esoteric synthesis, not a scholarly claim — see
   [[perennialism-and-modern-overlay]].
 
+## Corroboration & enrichment (S0002)
+
+[[S0002]] sharpens the mechanics: revelation coming *down* is **tanzil**; interpretation carrying it
+*back up* is **ta'wil** — "like walking upriver to find the spring." It grounds *zahir*/*batin* in
+**Quran 3:7** (clear vs. ambiguous verses; "none knows their ta'wil except God…"), notes the
+polemical label **batiniyya**, and adds two parallels:
+- **[[kabbalah|Kabbalah]]'s PaRDeS** — Peshat/Remez/Derash/**Sod** (secret) — the Jewish four-level
+  version of outer→inner reading.
+- Its **applied form** — the "two keys" that decode scripture onto present experience: see
+  **[[esoteric-decoding]]**.
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

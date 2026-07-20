@@ -5,7 +5,7 @@ aliases: ["Sufism", "Tasawwuf", "Irfan", "Islamic mysticism"]
 tradition: [islamic, sufism]
 era: "c. 8th century CE – present"
 tags: [mysticism, islam, tariqa, fana, dhikr]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Sufism
@@ -30,5 +30,14 @@ esoteric dimension of Islam — the primary Islamic tradition drawn on throughou
   esotericism; the philosophical backbone comes from **[[emanation|Neoplatonic emanation]]**.
 - Paralleled with **[[advaita-vedanta]]** across [[S0001]] — see [[islam-hindu-esoteric-parallels]].
 
+## Corroboration & enrichment (S0002)
+
+[[S0002]] adds the *zahir*/*batin* (outer/inner) framing and the **tanzil → ta'wil** movement (see
+[[tawil]]); the poets' **encryption** ("wine" = divine love, "the Beloved" = God; Shabistari's *Rose
+Garden of Secret*); more martyrs (**Suhrawardi**, 1191; see [[al-hallaj]]); the **[[al-ghazali|al-Ghazali]]**
+vs. Avicenna debate on creation ([[emanation]]); and the orthodox **wahdat al-shuhud** (Sirhindi)
+corrective to [[wahdat-al-wujud]] — see [[convergence-and-its-critics]].
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

@@ -5,7 +5,7 @@ aliases: ["Ibn Sina", "Avicenna", "Abu Ali Sina"]
 tradition: [islamic-philosophy, neoplatonic]
 era: "c. 980 – 1037 CE"
 tags: [philosopher, emanation, necessity, falsafa, visionary-recitals]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Ibn Sina (Avicenna)
@@ -32,5 +32,13 @@ of the soul's "exile and return."
   this philosophers-vs-mystics debate and then "reconciles" it (intent = process for the timeless
   Divine). See [[emanation]], [[wahdat-al-wujud]].
 
+## Corroboration & dissent (S0002)
+
+[[S0002]] stages Avicenna's necessary-overflow view against **[[al-ghazali|al-Ghazali]]**, who
+answered that a God who creates by necessity is a *machine* — creation must be a free choice
+(*kun fa-yakun*). This is the famous al-Ghazali-vs-the-philosophers dispute; [[S0002]] later
+transcends both with [[lila|play/love]]. See [[emanation]].
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

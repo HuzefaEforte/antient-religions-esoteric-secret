@@ -5,7 +5,7 @@ aliases: ["Advaita Vedanta", "Advaita", "Non-dualism (Hindu)", "Vedanta"]
 tradition: [hindu, vedanta]
 era: "Upanishadic roots (c. 800–500 BCE); systematized by Shankara c. 8th century CE"
 tags: [hindu, non-duality, brahman, atman, maya]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Advaita Vedanta
@@ -31,5 +31,14 @@ the self and the Absolute — the primary Hindu tradition in [[S0001]] and its m
   Ramanuja) and **Dvaita** (dualism, Madhva) dispute strict identity of self and God. [[S0001]]
   presents Advaita as *the* Hindu esoteric view without noting the alternatives.
 
+## Corroboration & dissent (S0002)
+
+[[S0002]] adds the full **four mahavakyas** (see [[atman-brahman]]), the **rope/snake** image of
+[[maya]], **Kashmir Shaivism**'s "actor who forgot he's acting" ([[remembrance]]), and notes the
+Bhagavad Gita openly calls its teaching *"the royal secret."* It also states the sharp **dissent**:
+Buddhism's *anatta* rejects the Atman that Advaita affirms — see [[two-truths]] and
+[[convergence-and-its-critics]].
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

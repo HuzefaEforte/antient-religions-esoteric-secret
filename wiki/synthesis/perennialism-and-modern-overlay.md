@@ -3,7 +3,7 @@ type: synthesis
 aliases: ["Perennialism and the Modern Overlay", "Contained: self-help and manifestation material", "Perennial Philosophy caution"]
 traditions: [perennialism, new-thought, new-age]
 tags: [caution, reliability, manifestation, wealth, speculative, quarantine]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Perennialism & the modern overlay — a reliability note
@@ -25,6 +25,17 @@ and Sufi masters (900–1200 CE) independently "drew the same blueprint," [[non-
   influence (Neoplatonism demonstrably shaped Islamic *and* later Hindu-facing readings),
   selection bias, and the smoothing-over of real doctrinal conflicts. Treat as a **hypothesis**,
   not a proof. `[speculative]`
+- **[[S0002]] names the actual scholarly debate** (and, to its credit, does *not* claim the
+  convergence proves anything): **perennialists** (Huxley, Guénon, Schuon, Nasr — "one summit, many
+  trails") vs. **contextualists** (Steven **Katz** — "no unmediated experience; each tradition builds
+  its own peak"). The full treatment, with the top-level dissents, lives on
+  **[[convergence-and-its-critics]]**.
+- **Reliability caveat:** S0001 and S0002 are **both `llm-generated`**. Their agreement on the core
+  raises confidence only slightly — it is **not** independent scholarly corroboration, and both may
+  share a lineage. Genuine corroboration still needs a `scholarly`/`primary` source.
+- **Note:** S0002 corroborates only the **metaphysics** below-the-line here — it contains **none** of
+  the wealth/manifestation/self-help material in §3, which strengthens the case for quarantining that
+  as an S0001 idiosyncrasy.
 - The source also claims **quantum physics** and the **Default Mode Network** *prove* non-duality.
   These are **analogies/correlations, not proofs** (flagged on [[non-duality]]).
 

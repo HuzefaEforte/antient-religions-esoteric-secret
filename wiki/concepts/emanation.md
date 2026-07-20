@@ -3,7 +3,7 @@ type: concept
 aliases: ["Emanation", "Sudur", "Fayd", "The Ten Intellects", "Aql al-Awwal", "First Intellect", "Active Intellect", "Aql al-Fa'al"]
 traditions: [neoplatonic, islamic-philosophy, ismaili]
 tags: [cosmology, overflow, intellects, creation]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Emanation (Sudur / Fayd) and the Ten Intellects
@@ -54,5 +54,20 @@ structure; `[llm-generated]` for the "server/GPU/source-code" gloss [[S0001]].
   image 2 is a genuine Persian ʿIrfan scan of the descending realms (Nasut → Huwiyah). Image 6,
   labeled "ancient," is actually **Boehme/Freher** (18th-c.) — anachronistic (see [[S0001]]).
 
+## Corroboration & enrichment (S0002)
+
+[[S0002]] deepens the **intentional-vs-automatic** debate this page raises:
+- **Camp 1 (intentional):** **[[al-ghazali|al-Ghazali]]** vs. [[ibn-sina|Avicenna]] — *kun
+  fa-yakun* ("Be! And it is"); "a gift is only a gift if it could have been withheld."
+- **Camp 2 (overflow):** [[plotinus|Plotinus]]/Neoplatonists — the One overflows "like perfume that
+  can't stay in the bottle."
+- **Camp 3 (both boxes too small):** **[[lila|play / love]]** — Aquinas: God creates *freely* yet
+  *without deliberation* (divine simplicity), so the dichotomy has no gap to live in.
+
+It also adds a **fourth emanation scheme** to compare with the Ten Intellects and the Ismaili
+[[drama-in-heaven]]: **[[kabbalah|Kabbalah]]**'s Ein Sof → sefirot (with Luria's tzimtzum/shattered
+vessels/scattered sparks — see [[isaac-luria]]).
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

@@ -3,7 +3,7 @@ type: concept
 aliases: ["The Observer", "The Witness", "Sakshi", "Pure Awareness", "The Eternal Now"]
 traditions: [advaita-vedanta, sufism, hermetic]
 tags: [witness, awareness, presence, now, ego]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # The Observer (and the Eternal Now)
@@ -43,5 +43,19 @@ continuous **Now**, "the home address of the Observer." Sufi *Waqt*, Vedantic *S
   matrix"** and manifesting outcomes (the "Law of Reversal"). That practical/New-Age layer is
   **contained and flagged** in [[perennialism-and-modern-overlay]], not treated as established here.
 
+## Corroboration & enrichment (S0002)
+
+[[S0002]] gives the sharpest pointers to the Observer as **subject that can never be an object** —
+"the eye that cannot see itself":
+- **The tongue** can't taste itself; a fingertip can't touch itself; a flashlight can't shine on
+  itself.
+- **Grandma's glasses** — searching for what you're looking *through*.
+- **The cinema screen** — never seen *as* a thing, yet nothing else was ever seen.
+- **The fish** can't find the ocean it's made of.
+- The Quran's *"closer than your jugular vein"*; the name **"I AM"**; the pair **Az-Zahir /
+  Al-Batin** (the Outer seen / the Inner seeing). See [[esoteric-decoding]], [[via-negativa]].
+- Practice: **"die before you die"** — let the "me" die now (ties to [[fana]]).
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

@@ -3,7 +3,7 @@ type: concept
 aliases: ["Maya", "Cosmic illusion", "Avidya"]
 traditions: [advaita-vedanta, hindu]
 tags: [illusion, appearance, ignorance]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Maya — cosmic illusion
@@ -30,5 +30,13 @@ Sufi **Ghaflah** (heedlessness). [[S0001]]
   forgetfulness) are treated as parallels. `[esoteric]`/`[llm-generated]` — see
   [[islam-hindu-esoteric-parallels]].
 
+## Corroboration & enrichment (S0002)
+
+[[S0002]] gives Maya its classic image: **the rope mistaken for a snake in dim light** — "the world
+isn't fake; you're *misreading* it" (Shankara's [[advaita-vedanta|Advaita]]). It adds **Kashmir
+Shaivism**'s sweeter version: God is an actor so absorbed in playing "you" that he forgot he is the
+actor — and waking (*pratyabhijna*, "recognition") is simply remembering (see [[remembrance]]).
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

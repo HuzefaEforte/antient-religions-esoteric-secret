@@ -3,7 +3,7 @@ type: concept
 aliases: ["Wahdat al-Wujud", "Unity of Being", "Oneness of Being", "Haqiqat"]
 traditions: [sufism, islamic-mysticism]
 tags: [oneness, ibn-arabi, divine-unity, ontology]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Wahdat al-Wujud — the Unity of Being
@@ -39,5 +39,15 @@ known"* — the Divine places a mirror (the cosmos) before itself to experience 
   distinction. [[S0001]] presents it as *the* Sufi view without noting the dispute — a gap to fill
   with a `scholarly` source.
 
+## Corroboration & dissent (S0002)
+
+[[S0002]] corroborates Wahdat al-Wujud (creation as God's continuous self-showing, *tajalli* — "one
+ocean appearing as millions of waves") and the maxim *"Whoever knows himself knows his Lord."* It
+also supplies the **orthodox correction** this page flagged as missing:
+- **Wahdat al-shuhud** ("unity of *witnessing*," Ahmad **Sirhindi**): in the end the servant remains
+  a servant and the Lord remains the Lord — union *with distinction*, not identity of being. This is
+  now recorded as a first-class dissent on **[[convergence-and-its-critics]]**.
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

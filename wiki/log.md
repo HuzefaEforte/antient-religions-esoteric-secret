@@ -50,3 +50,38 @@ Header format — `## [YYYY-MM-DD] <op> | <title>` where `<op>` is one of
 - Open threads: corroborate the Tayyibi/Corbin attribution, the al-Hallaj reading, and the
   Perennialism claim with `scholarly`/`primary` sources; ~15 book recommendations noted as
   candidate future sources (Corbin, Plotinus, Kirmani, Ibn ʿArabi, etc.).
+
+## [2026-07-20] ingest | S0002 — The Hidden Teaching
+- Ingested second source: **"The Hidden Teaching"** — a comparative essay on the esoteric core of
+  the world's religions (`source_type: llm-chat`/research, `reliability: llm-generated`). Text-only,
+  no images. Renamed raw file → `raw/S0002-the-hidden-teaching.md`.
+- Read fully. Assessed as **more methodologically careful than S0001**: self-flags interpretive
+  status, foregrounds dissent, cites the real perennialism-vs-contextualism debate. Recorded the key
+  epistemic caveat everywhere: **two LLM syntheses agreeing is NOT independent scholarly
+  corroboration.**
+- Curator decisions: **broad build**; **dissent gets both a hub page and inline threading**.
+- Wrote **20 new pages**:
+  - Source page [[S0002-the-hidden-teaching]].
+  - Concepts (6): [[two-truths]], [[via-negativa]], [[lila]], [[axial-age]], [[remembrance]],
+    [[esoteric-decoding]].
+  - Entities — traditions (5): [[kabbalah]], [[christian-mysticism]], [[gnosticism]] (cross-links
+    back to S0001's Hans Jonas ref), [[buddhism]], [[taoism]].
+  - Entities — figures (7): [[meister-eckhart]], [[nagarjuna]], [[isaac-luria]],
+    [[pseudo-dionysius]], [[al-ghazali]], [[laozi]], [[guru-nanak]].
+  - Synthesis hub (1): [[convergence-and-its-critics]] — the four shared claims, the summit-level
+    disagreements (Advaita identity vs. union-with-distinction vs. Buddhist no-self), and
+    perennialists (Huxley/Guénon/Schuon/Nasr) vs. contextualists (Katz).
+- **Enriched 15 existing pages** with S0002 corroboration + dissent and added S0002 to their
+  `sources:`: [[non-duality]], [[wahdat-al-wujud]] (+wahdat al-shuhud/Sirhindi), [[emanation]]
+  (+al-Ghazali/Avicenna, Aquinas, Kabbalah), [[tawil]] (+tanzil/PaRDeS), [[the-observer]] (+eye
+  pointers), [[atman-brahman]] (+four mahavakyas, anatta dissent), [[fana]], [[maya]] (+rope/snake),
+  [[al-hallaj]] (+Suhrawardi/Eckhart), [[advaita-vedanta]], [[sufism]], [[upanishads]], [[ibn-sina]],
+  [[islam-hindu-esoteric-parallels]], [[perennialism-and-modern-overlay]] (+perennialism/contextualism).
+- Updated `wiki/index.md` (counts now 2 sources · 27 entities · 18 concepts · 3 synthesis) and
+  `wiki/overview.md` (thesis broadened across traditions, now held "with its critics attached").
+- Key finding: S0002 corroborates S0001's **metaphysics** but contains **none** of S0001's
+  wealth/manifestation/matrix material — strengthening the case for keeping that quarantined.
+- Open threads: ingest a real `scholarly`/`primary` source to actually corroborate the core and the
+  dissents (candidates: Steven Katz on contextualism; a Kabbalah survey; a Nagarjuna translation;
+  Henry Corbin); check whether the Axial-Age thesis still holds in current scholarship; determine
+  whether S0001 and S0002 share a lineage (which would further weaken their mutual agreement).

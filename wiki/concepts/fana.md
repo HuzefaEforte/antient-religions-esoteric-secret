@@ -3,7 +3,7 @@ type: concept
 aliases: ["Fana", "Fana fi-Allah", "Annihilation of the ego", "Baqa"]
 traditions: [sufism]
 tags: [ego-death, annihilation, mysticism, self]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Fana — annihilation of the self
@@ -33,5 +33,19 @@ collapses the sense of linear time, dropping the mystic into the timeless **Now*
 Vedantic *Sat*). This underpins the source's reading of **sacrifice/martyrdom** as liberation
 (the falcon leaving the cage) rather than tragedy — see [[imam-hussain]], [[al-hallaj]], [[rumi]].
 
+## Corroboration & enrichment (S0002)
+
+[[S0002]] corroborates *fana* (the drop falling into the ocean) and its complement **baqa**
+(subsistence in God), and adds cross-tradition cognates:
+- **"Die before you die"** — the central Sufi command; let the "me" die now (ties to [[the-observer]],
+  [[esoteric-decoding]] on Judgment as "all veils falling").
+- **Christian:** *"Not I, but Christ lives in me"* read as fana/baqa in Christian code (see
+  [[christian-mysticism]], [[meister-eckhart]]).
+
+**Caveat:** most Sufis (and Christian mystics) hold *fana* as **union-with-distinction**, not the
+strict identity of Advaita — the servant remains a servant (see [[wahdat-al-wujud]],
+[[convergence-and-its-critics]]).
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).

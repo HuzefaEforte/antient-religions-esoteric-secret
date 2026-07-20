@@ -3,7 +3,7 @@ type: concept
 aliases: ["Atman", "Brahman", "Atman-Brahman", "Aham Brahmasmi", "Tat Tvam Asi", "Nirguna Brahman"]
 traditions: [advaita-vedanta, upanishadic]
 tags: [self, absolute, identity, non-duality]
-sources: [S0001]
+sources: [S0001, S0002]
 ---
 
 # Atman and Brahman
@@ -35,5 +35,17 @@ Essence beyond even the [[emanation|First Intellect]]'s grasp). See [[wahdat-al-
 - The strict identity of self and Absolute is the **Advaita** position specifically; other
   Vedanta schools qualify or deny it (see the note in [[non-duality]]). Not flagged by the source.
 
+## Corroboration & dissent (S0002)
+
+[[S0002]] completes the **four mahavakyas** ("great sayings"): *Tat tvam asi* ("You are That"),
+*Aham brahmasmi* ("I am Brahman"), **Prajnanam brahma** ("Consciousness is Brahman"), **Ayam atma
+brahma** ("This self is Brahman"). It adds the **salt-in-water** teaching (the divine invisible yet
+present in every drop) and Kashmir Shaivism's *pratyabhijna* ("recognition"; see [[remembrance]]).
+
+**The dissent:** Buddhism's *anatta* (no permanent self) **directly negates** this identity — "there
+is no Self to *be* Brahman." [[S0002]] calls these *"genuinely rival final answers."* See
+[[two-truths]] and **[[convergence-and-its-critics]]**.
+
 ## Sources
 - [[S0001]] — *Ancient Religions' Esoteric Secrets Revealed* (`llm-generated`).
+- [[S0002]] — *The Hidden Teaching* (`llm-generated`).
